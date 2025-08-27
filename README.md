@@ -13,6 +13,7 @@ A **clean, offline-first task management app** built with **Flutter**, featuring
 See the app in action:  
 
 [Watch the demo video](assets/taskist_demo.mp4)
+---
 [Apk files](https://drive.google.com/drive/folders/1kUDieFoqAnE4wFnNW4eKZSy9lCP2LROE?usp=sharing)
 
 ---
