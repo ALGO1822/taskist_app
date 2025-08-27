@@ -12,10 +12,7 @@ A **clean, offline-first task management app** built with **Flutter**, featuring
 
 See the app in action:  
 
-<video width="100%" controls>
-  <source src="assets/taskist_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="demo.mp4">Download video</a>
-</video>
+[Watch the demo video](assets/taskist_demo.mp4)
 
 ---
 
@@ -23,7 +20,7 @@ See the app in action:
 
 | Login | Register | Projects |
 |-------|----------|----------|
-| ![Login](assets/login_page.png) | ![Register](assets/register_page.png) | ![Projects](assets/project_page.png) |
+| ![Login](assets/login_page.png) | ![Register](assets/signup_page.png) | ![Projects](assets/project_page.png) |
 
 | Task Page | Dashboard |
 |-----------|-----------|
@@ -67,8 +64,6 @@ flutter run
 ## 🏗️ Architecture
 
 This app follows **MVVM (Model–View–ViewModel)** with **Provider** for state management and **Hive** for local persistence.
-
-```
 
 ### 🔑 Key Technologies
 | Tech                    | Purpose                                |
@@ -127,7 +122,6 @@ Perfect for testing multi-user scenarios 🚀
 
 ## 🤖 Mock AI (Not Implemented Yet)
 
----
 
 ## 🙌 Credits
 
